@@ -1,0 +1,32 @@
+running develop
+Removing /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa-chess-brain.egg-link (link to .)
+running egg_info
+writing ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/PKG-INFO
+writing dependency_links to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/dependency_links.txt
+writing entry points to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/entry_points.txt
+writing requirements to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/requires.txt
+writing top-level names to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/top_level.txt
+reading manifest file '../../build/cpa_chess_brain/cpa_chess_brain.egg-info/SOURCES.txt'
+writing manifest file '../../build/cpa_chess_brain/cpa_chess_brain.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build
+creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib
+creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain
+copying cpa_chess_brain/__init__.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain
+copying cpa_chess_brain/basic_arm_control.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain
+running install
+running install_lib
+creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain
+copying /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain/__init__.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain
+copying /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain/basic_arm_control.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain
+byte-compiling /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain/basic_arm_control.py to basic_arm_control.cpython-312.pyc
+running install_data
+copying resource/cpa_chess_brain -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/share/ament_index/resource_index/packages
+copying package.xml -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/share/cpa_chess_brain
+running install_egg_info
+Copying ../../build/cpa_chess_brain/cpa_chess_brain.egg-info to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain-0.0.0-py3.12.egg-info
+running install_scripts
+Installing arm_control_exe script to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/cpa_chess_brain
+writing list of installed files to '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/install.log'

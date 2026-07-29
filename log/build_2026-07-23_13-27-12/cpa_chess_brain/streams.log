@@ -1,0 +1,17 @@
+[0.484s] Invoking command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build --no-deps symlink_data
+[0.682s] running develop
+[0.794s] running egg_info
+[0.804s] writing cpa_chess_brain.egg-info/PKG-INFO
+[0.804s] writing dependency_links to cpa_chess_brain.egg-info/dependency_links.txt
+[0.805s] writing entry points to cpa_chess_brain.egg-info/entry_points.txt
+[0.805s] writing requirements to cpa_chess_brain.egg-info/requires.txt
+[0.805s] writing top-level names to cpa_chess_brain.egg-info/top_level.txt
+[0.826s] reading manifest file 'cpa_chess_brain.egg-info/SOURCES.txt'
+[0.826s] writing manifest file 'cpa_chess_brain.egg-info/SOURCES.txt'
+[0.837s] running build_ext
+[0.837s] Creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa-chess-brain.egg-link (link to .)
+[0.838s] Installing arm_control_exe script to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/cpa_chess_brain
+[0.838s] 
+[0.838s] Installed /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain
+[0.838s] running symlink_data
+[0.860s] Invoked command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build --no-deps symlink_data

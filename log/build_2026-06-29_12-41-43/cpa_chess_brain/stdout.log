@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing cpa_chess_brain.egg-info/PKG-INFO
+writing dependency_links to cpa_chess_brain.egg-info/dependency_links.txt
+writing entry points to cpa_chess_brain.egg-info/entry_points.txt
+writing requirements to cpa_chess_brain.egg-info/requires.txt
+writing top-level names to cpa_chess_brain.egg-info/top_level.txt
+reading manifest file 'cpa_chess_brain.egg-info/SOURCES.txt'
+writing manifest file 'cpa_chess_brain.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa-chess-brain.egg-link (link to .)
+Installing arm_control_exe script to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/cpa_chess_brain
+
+Installed /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain
+running symlink_data
+symbolically linking /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/resource/cpa_chess_brain -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/share/ament_index/resource_index/packages
+symbolically linking /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/package.xml -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/share/cpa_chess_brain

@@ -1,0 +1,2 @@
+[console_scripts]
+arm_control_exe = cpa_chess_brain.basic_arm_control:main

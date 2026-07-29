@@ -1,0 +1,1 @@
+/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description/ament_cmake_core/my_arm_descriptionConfig-version.cmake

@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/launch/display.launch.py
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/urdf/my_arm.urdf
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/gripper_base.stl
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/left_finger.stl
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/right_finger.stl
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/package_run_dependencies/my_arm_description
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/parent_prefix_path/my_arm_description
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/path.sh
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/path.dsv
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.bash
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.sh
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.zsh
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.dsv
+-- Symlinking: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/package.dsv
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/packages/my_arm_description
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/cmake/my_arm_descriptionConfig.cmake
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/cmake/my_arm_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/package.xml

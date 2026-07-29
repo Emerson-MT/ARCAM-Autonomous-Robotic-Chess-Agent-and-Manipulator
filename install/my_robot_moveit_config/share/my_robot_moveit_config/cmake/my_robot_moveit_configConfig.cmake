@@ -1,0 +1,1 @@
+/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_robot_moveit_config/ament_cmake_core/my_robot_moveit_configConfig.cmake

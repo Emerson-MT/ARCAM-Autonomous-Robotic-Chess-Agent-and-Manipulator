@@ -1,0 +1,24 @@
+[0.476s] Invoking command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/src/cpa_chess_brain': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cpa_chess_brain build --build-base /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build install --record /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/install.log --single-version-externally-managed install_data
+[0.631s] running egg_info
+[0.640s] writing ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/PKG-INFO
+[0.640s] writing dependency_links to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/dependency_links.txt
+[0.640s] writing entry points to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/entry_points.txt
+[0.641s] writing requirements to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/requires.txt
+[0.641s] writing top-level names to ../../build/cpa_chess_brain/cpa_chess_brain.egg-info/top_level.txt
+[0.660s] reading manifest file '../../build/cpa_chess_brain/cpa_chess_brain.egg-info/SOURCES.txt'
+[0.660s] writing manifest file '../../build/cpa_chess_brain/cpa_chess_brain.egg-info/SOURCES.txt'
+[0.661s] running build
+[0.661s] running build_py
+[0.661s] copying cpa_chess_brain/basic_arm_control.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain
+[0.661s] running install
+[0.664s] running install_lib
+[0.674s] copying /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build/lib/cpa_chess_brain/basic_arm_control.py -> /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain
+[0.674s] byte-compiling /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain/basic_arm_control.py to basic_arm_control.cpython-312.pyc
+[0.675s] running install_data
+[0.675s] running install_egg_info
+[0.685s] removing '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain-0.0.0-py3.12.egg-info' (and everything under it)
+[0.686s] Copying ../../build/cpa_chess_brain/cpa_chess_brain.egg-info to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages/cpa_chess_brain-0.0.0-py3.12.egg-info
+[0.686s] running install_scripts
+[0.758s] Installing arm_control_exe script to /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/cpa_chess_brain
+[0.758s] writing list of installed files to '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/install.log'
+[0.778s] Invoked command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/src/cpa_chess_brain' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cpa_chess_brain build --build-base /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/build install --record /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/cpa_chess_brain/install.log --single-version-externally-managed install_data

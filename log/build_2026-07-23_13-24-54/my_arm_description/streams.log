@@ -1,0 +1,47 @@
+[0.013s] Invoking command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/src/my_arm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description
+[0.098s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.266s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.293s] -- Found rclcpp: 28.1.11 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.348s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.361s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.377s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.393s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.471s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.474s] -- Found rmw_cyclonedds_cpp: 2.2.3 (/opt/ros/jazzy/share/rmw_cyclonedds_cpp/cmake)
+[0.510s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.583s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.666s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.667s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.667s] -- Added test 'lint_cmake' to check CMake code style
+[0.668s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.669s] -- Added test 'xmllint' to check XML markup files
+[0.673s] -- Configuring done (0.6s)
+[0.690s] -- Generating done (0.0s)
+[0.695s] -- Build files have been written to: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description
+[0.701s] Invoked command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/src/my_arm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description
+[0.702s] Invoking command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description -- -j16 -l16
+[0.746s] Invoked command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description -- -j16 -l16
+[0.756s] Invoking command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description
+[0.765s] -- Install configuration: ""
+[0.766s] -- Execute custom install script
+[0.766s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/launch/display.launch.py
+[0.766s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/urdf/my_arm.urdf
+[0.766s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/gripper_base.stl
+[0.766s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/left_finger.stl
+[0.766s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/meshes/right_finger.stl
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/package_run_dependencies/my_arm_description
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/parent_prefix_path/my_arm_description
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/ament_prefix_path.sh
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/ament_prefix_path.dsv
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/path.sh
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/environment/path.dsv
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.bash
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.sh
+[0.767s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.zsh
+[0.768s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/local_setup.dsv
+[0.768s] -- Symlinking: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/package.dsv
+[0.776s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/ament_index/resource_index/packages/my_arm_description
+[0.776s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/cmake/my_arm_descriptionConfig.cmake
+[0.776s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/cmake/my_arm_descriptionConfig-version.cmake
+[0.776s] -- Up-to-date symlink: /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/my_arm_description/share/my_arm_description/package.xml
+[0.778s] Invoked command in '/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/install/cpa_chess_brain:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/emersonmt/Documents/Projects/GRP-Chess-playing-arm/cpa_ws/build/my_arm_description
