@@ -1,0 +1,14 @@
+# --- ROS 2 ---
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+ros2_ws/.vscode/
+
+# --- React / Node ---
+chess_dashboard/node_modules/
+chess_dashboard/dist/
+chess_dashboard/.vscode/
+
+# --- Sistema / Varios ---
+.DS_Store
+*.log

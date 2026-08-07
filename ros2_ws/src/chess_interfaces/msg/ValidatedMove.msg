@@ -1,0 +1,9 @@
+string uci
+string san
+string color
+string actor
+int32 move_number
+bool is_capture
+bool is_check
+bool is_checkmate
+string fen_after

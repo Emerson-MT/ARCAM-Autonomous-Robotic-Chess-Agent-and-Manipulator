@@ -1,0 +1,10 @@
+# Goal
+string source_square
+string target_square
+bool is_capture
+---
+# Result
+bool success
+---
+# Feedback
+string status
